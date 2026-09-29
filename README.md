@@ -11,15 +11,15 @@ El objetivo es identificar los riesgos de seguridad asociados al uso de HTTP y e
 ## Evidencia observada
 Al inspeccionar la pestaña **Network** de las herramientas de desarrollador del navegador se observó:
 
-| Elemento               Valor observado                                      
-|==============================================================================
-| Request URL:            http://sublimesilversplendidbirds.neverssl.com/online/ 
-| Request Method:         GET                                                  
-| Status Code:            200 OK                                               
-| Host:                   sublimesilversplendidbirds.neverssl.com              
-| Protocolo:              HTTP                                                 
-| User-Agent:             Mozilla/5.0 (Windows NT 10.0; Win64; x64) ... Chrome 
-| Content-Type:           text/html; charset=UTF-8                             
+| Elemento              | Valor observado                                      |
+|-----------------------|------------------------------------------------------|
+| Request URL           | http://sublimesilversplendidbirds.neverssl.com/online/ 
+| Request Method        | GET                                                  |
+| Status Code           | 200 OK                                               |
+| Host                  | sublimesilversplendidbirds.neverssl.com              |
+| Protocolo             | HTTP                                                 |
+| User-Agent            | Mozilla/5.0 (Windows NT 10.0; Win64; x64) ... Chrome |
+| Content-Type          | text/html; charset=UTF-8                             |           
 
  **Importante!**: Toda esta información viaja en texto plano y puede ser interceptada por cualquier persona conectada a la misma red wifi.
 
